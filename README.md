@@ -10,6 +10,10 @@ I am a GIS and Remote Sensing Specialist at [International Maize and Wheat Impro
 - 📫 reach me at m.kamal@cgiar.org
 - ⚡ Fun fact: Rubics cube
 
+## Education 
+- Master of Science in Disaster Management (2014)
+- Bachelor of Urban and Rural Planning (2009)
+
 <!--
 **nice177/nice177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
