@@ -7,7 +7,7 @@ I am a GIS and Remote Sensing Specialist at [International Maize and Wheat Impro
 - 👯 I’m looking to collaborate on research on precision agriculture using geospatial data science
 - 🤔 I’m looking for help with python and cloud data processing 
 - 💬 Ask me about GIS, Remote sesning, Database and UAV
-- 📫 reach me at m.kamal@cgiar.org
+- 📫 reach me at nice_177@yahoo.com
 - ⚡ Fun fact: Rubics cube
 
 ## Education 
